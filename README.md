@@ -33,9 +33,9 @@ A Note-Taking Application is a web-based note-taking application built using Nod
   ```bash
     cd Note-app
     npm install
-    ```
+```
 
-3. **Configure Environment Variables:**
+## 3. **Configure Environment Variables:**
 
 Create a .env file based on the provided .env.example and set the required variables, such as MongoDB connection string and session secret.
 
