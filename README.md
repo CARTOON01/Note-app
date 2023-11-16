@@ -4,7 +4,7 @@
 
 ## Overview
 
-Your Note-Taking Application Name is a web-based note-taking application built using Node.js and MongoDB. It provides users with a simple and efficient way to create, edit, and organize their notes.
+A Note-Taking Application is a web-based note-taking application built using Node.js and MongoDB. It provides users with a simple and efficient way to create and organize their notes.
 
 ## Features
 
@@ -33,7 +33,7 @@ Your Note-Taking Application Name is a web-based note-taking application built u
   ```bash
     cd Note-app
     npm install
-    ``
+    ```
 
 3. **Configure Environment Variables:**
 
@@ -43,19 +43,19 @@ Create a .env file based on the provided .env.example and set the required varia
 
     ```bash
     npm start
-    ```
-
+    
     The application will be accessible at http://localhost:3000.
 
-## Usage
+
+##Usage
 
     Create a Note:
 
     Click on the "New Note" button to create a new note. Add a title, content, and organize it into folders or tags.
 
-    Edit and Delete Notes:
+    Delete Notes:
 
-    Users can edit and delete their notes as needed.
+    One can create and delete their notes as needed.
 
     Search for Notes:
 
