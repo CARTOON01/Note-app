@@ -43,11 +43,11 @@ Create a .env file based on the provided .env.example and set the required varia
 
     ```bash
     npm start
-    
+    ```
     The application will be accessible at http://localhost:3000.
 
 
-##Usage
+## 4. **Usage**
 
     Create a Note:
 
@@ -69,6 +69,7 @@ License
 This project is licensed under the MIT License.
 Contact
 
+## Contact
     Author: Brian Ngugi
     Email: brian@briankamau.com
     Project Link: https://github.com/CARTOON01/Note-app
