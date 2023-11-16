@@ -30,10 +30,10 @@ A Note-Taking Application is a web-based note-taking application built using Nod
 
 ## 2. **Install Dependencies:**
 
-  ```bash
+    ```bash
     cd Note-app
     npm install
-```
+    ```
 
 ## 3. **Configure Environment Variables:**
 
