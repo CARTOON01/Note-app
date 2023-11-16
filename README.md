@@ -43,23 +43,19 @@ Create a .env file based on the provided .env.example and set the required varia
 
     ```bash
     npm start
-    ```
     The application will be accessible at http://localhost:3000.
+    ```
 
 
 ## 5. **Usage**
 
     Create a Note:
 
-    Click on the "New Note" button to create a new note. Add a title, content, and organize it into folders or tags.
+    Click on the "New Note" button to create a new note. Add a title and the content.
 
     Delete Notes:
 
     One can create and delete their notes as needed.
-
-    Search for Notes:
-
-    Utilize the search functionality to quickly find specific notes.
 
 ## 6.  **Contributing**
 
