@@ -25,13 +25,14 @@ Your Note-Taking Application Name is a web-based note-taking application built u
 
    ```bash
    git clone https://github.com/CARTOON01/Note-app.git
+   ```
 
 
 2. **Install Dependencies:**
 
   ```bash
 
-    cd your-note-app
+    cd Note-app
     npm install
 
 3. **Configure Environment Variables:**
