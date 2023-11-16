@@ -7,7 +7,7 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-mongoose.connect("mongodb://localhost:27017/keeperDB", {
+mongoose.connect("mongodb+srv://cartoon:cartoon@cluster0.nuu3kob.mongodb.net/Notes?retryWrites=true&w=majority", {
     useNewUrlParser: true, 
     useUnifiedTopology: true,
     useCreateIndex: true
