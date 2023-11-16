@@ -47,7 +47,7 @@ Create a .env file based on the provided .env.example and set the required varia
     The application will be accessible at http://localhost:3000.
 
 
-## 4. **Usage**
+## 5. **Usage**
 
     Create a Note:
 
@@ -61,7 +61,7 @@ Create a .env file based on the provided .env.example and set the required varia
 
     Utilize the search functionality to quickly find specific notes.
 
-## Contributing
+## 6.  **Contributing**
 
 If you would like to contribute to the project, please follow the contribution guidelines.
 License
@@ -69,7 +69,7 @@ License
 This project is licensed under the MIT License.
 Contact
 
-## Contact
+## **Contact**
     Author: Brian Ngugi
     Email: brian@briankamau.com
     Project Link: https://github.com/CARTOON01/Note-app
