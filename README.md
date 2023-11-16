@@ -46,7 +46,7 @@ Create a .env file based on the provided .env.example and set the required varia
 
     The application will be accessible at http://localhost:3000.
 
-**Usage**
+## Usage
 
     Create a Note:
 
@@ -60,7 +60,7 @@ Create a .env file based on the provided .env.example and set the required varia
 
     Utilize the search functionality to quickly find specific notes.
 
-**Contributing**
+## Contributing
 
 If you would like to contribute to the project, please follow the contribution guidelines.
 License
