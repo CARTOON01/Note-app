@@ -28,7 +28,7 @@ Your Note-Taking Application Name is a web-based note-taking application built u
    ```
 
 
-2. **Install Dependencies:**
+## 2. **Install Dependencies:**
 
   ```bash
     cd Note-app
