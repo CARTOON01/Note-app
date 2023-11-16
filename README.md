@@ -33,8 +33,7 @@ Your Note-Taking Application Name is a web-based note-taking application built u
   ```bash
     cd Note-app
     npm install
-    ```
-
+    ``
 
 3. **Configure Environment Variables:**
 
